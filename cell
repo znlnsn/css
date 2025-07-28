@@ -1,0 +1,3 @@
+cellspacing规定单元格之间的空间
+
+cellpadding规定单元格与内容之间的空白
